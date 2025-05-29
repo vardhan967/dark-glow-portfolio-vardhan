@@ -60,10 +60,7 @@ const ProjectsSection = () => {
                   <div className="flex gap-2">
                     <Button variant="outline" className="border-primary/30 hover:border-primary hover:bg-primary/10">
                       <Github className="w-4 h-4 mr-2" />
-                      View Code
-                    </Button>
-                    <Button className="bg-primary hover:bg-primary/80">
-                      Live Demo
+                      <a  href="https://github.com/vardhan967/" target='_blank' >View Code</a>
                     </Button>
                   </div>
                 </div>
@@ -100,7 +97,8 @@ const ProjectsSection = () => {
           <p className="text-gray-400 mb-4">More projects coming soon!</p>
           <Button variant="outline" className="border-primary/30 hover:border-primary hover:bg-primary/10">
             <Github className="w-4 h-4 mr-2" />
-            View All Projects on GitHub
+            <a  href="https://github.com/vardhan967/" target='_blank' >View All Projects on GitHub</a>
+            
           </Button>
         </div>
       </div>

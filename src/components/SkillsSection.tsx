@@ -97,7 +97,7 @@ const SkillsSection = () => {
           <h3 className="text-2xl font-bold text-center mb-8 gradient-text">Soft Skills</h3>
           <div className="grid md:grid-cols-3 gap-6">
             {[
-              { skill: "Communication in English", certification: "IBM Certified" },
+              { skill: "Communication in English", certification: "Certified" },
               { skill: "Leadership in Projects", certification: "Team Management" },
               { skill: "Event Coordination", certification: "Multi-event Experience" }
             ].map((item, index) => (

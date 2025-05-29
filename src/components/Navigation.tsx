@@ -35,7 +35,7 @@ const Navigation = ({ activeSection, setActiveSection }: NavigationProps) => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <h1 className="text-xl font-bold gradient-text">VSPV</h1>
+            <h1 className="text-xl font-bold gradient-text">Prakash Vardhan</h1>
           </div>
 
           {/* Desktop Navigation */}

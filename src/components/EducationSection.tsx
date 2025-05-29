@@ -80,11 +80,11 @@ const EducationSection = () => {
                     </div>
                     <div className="flex justify-between">
                       <span className="text-gray-300">CGPA</span>
-                      <span className="text-white font-medium">8.24</span>
+                      <span className="text-white font-medium">8.29*</span>
                     </div>
                     <div className="flex justify-between">
                       <span className="text-gray-300">Year</span>
-                      <span className="text-white font-medium">3rd Year</span>
+                      <span className="text-white font-medium">4th Year</span>
                     </div>
                   </div>
                 </div>

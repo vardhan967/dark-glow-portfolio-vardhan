@@ -19,7 +19,7 @@ const AboutSection = () => {
             </p>
             
             <p className="text-lg text-gray-300 leading-relaxed">
-              Currently pursuing my <span className="text-primary font-semibold">B.Tech in Artificial Intelligence and Machine Learning</span> 
+              Currently pursuing my <span className="text-primary font-semibold">B.Tech in Artificial Intelligence and Machine Learning </span> 
               at Aditya University, where I am honing my problem-solving skills and staying at the forefront of emerging technologies.
             </p>
 
@@ -30,10 +30,10 @@ const AboutSection = () => {
 
             <div className="flex flex-wrap gap-4 pt-4">
               <div className="glass-card px-4 py-2 rounded-lg">
-                <span className="text-primary font-semibold">📍</span> Amalapuram
+                <span className="text-primary font-semibold">📍</span> Artificail Inteligence
               </div>
               <div className="glass-card px-4 py-2 rounded-lg">
-                <span className="text-primary font-semibold">🎓</span> B.Tech AIM Student
+                <span className="text-primary font-semibold">🎓</span> B.Tech AIML Student
               </div>
               <div className="glass-card px-4 py-2 rounded-lg">
                 <span className="text-primary font-semibold">💻</span> Full Stack Developer
@@ -50,7 +50,7 @@ const AboutSection = () => {
               </div>
               <div className="flex justify-between items-center">
                 <span className="text-gray-300">CGPA</span>
-                <span className="text-white font-medium">8.24</span>
+                <span className="text-white font-medium">8.29*</span>
               </div>
               <div className="flex justify-between items-center">
                 <span className="text-gray-300">Graduation</span>
@@ -58,7 +58,7 @@ const AboutSection = () => {
               </div>
               <div className="flex justify-between items-center">
                 <span className="text-gray-300">Experience</span>
-                <span className="text-white font-medium">2+ Years Learning</span>
+                <span className="text-white font-medium">3+ Years Learning</span>
               </div>
               <div className="flex justify-between items-center">
                 <span className="text-gray-300">Focus</span>

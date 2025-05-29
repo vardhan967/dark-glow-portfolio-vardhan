@@ -89,7 +89,7 @@ const ContactSection = () => {
                 className="border-primary/30 hover:border-primary hover:bg-primary/10"
                 asChild
               >
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
+                <a href="https://linkedin.com/prakashvardhan" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
                   <Linkedin size={20} />
                   LinkedIn
                 </a>
@@ -101,7 +101,7 @@ const ContactSection = () => {
                 className="border-primary/30 hover:border-primary hover:bg-primary/10"
                 asChild
               >
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
+                <a href="https://github.com/vardhan967" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
                   <Github size={20} />
                   GitHub
                 </a>
@@ -113,7 +113,7 @@ const ContactSection = () => {
               size="lg"
             >
               <ArrowDown className="w-4 h-4 mr-2" />
-              Download Resume
+              <a  href="https://drive.google.com/file/d/11qdJz0PVPJgqtS6hzWisTeW42dpWQHpD/view?usp=sharing" target='_blank' >Download Resume</a>
             </Button>
           </div>
 
