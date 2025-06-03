@@ -25,6 +25,12 @@ const CertificationsSection = () => {
       description: "Artificial Intelligence fundamentals and machine learning applications",
       skills: ["Machine Learning", "AI Fundamentals", "Data Analysis"]
     }
+    {
+      title: "MongoDB",
+      provider: "Let's Upgrade",
+      description: "MongoDB fundamentals",
+      skills: ["DataBase", "Schema Design", "Data Control Language"]
+    }
   ];
 
   return (
