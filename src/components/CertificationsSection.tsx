@@ -30,7 +30,7 @@ const CertificationsSection = () => {
       provider: "Let's Upgrade",
       description: "MongoDB fundamentals",
       skills: ["DataBase", "Schema Design", "Data Control Language"]
-    }
+    },
   ];
 
   return (
