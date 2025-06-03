@@ -24,7 +24,7 @@ const CertificationsSection = () => {
       provider: "IBM SkillsBuild",
       description: "Artificial Intelligence fundamentals and machine learning applications",
       skills: ["Machine Learning", "AI Fundamentals", "Data Analysis"]
-    }
+    },
     {
       title: "MongoDB",
       provider: "Let's Upgrade",
