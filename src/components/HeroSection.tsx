@@ -67,7 +67,7 @@ const HeroSection = () => {
               className="border-primary/30 hover:border-primary hover:bg-primary/10"
               asChild
             >
-              <a href="https://linkedin.com/prakashvardhan" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
+              <a href="https://www.linkedin.com/prakashvardhan/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
                 <Linkedin size={20} />
                 LinkedIn
               </a>
