@@ -89,7 +89,7 @@ const ContactSection = () => {
                 className="border-primary/30 hover:border-primary hover:bg-primary/10"
                 asChild
               >
-                <a href="https://www.linkedin.com//in/prakashvardhan/" target="_blank" rel="" className="flex items-center gap-2">
+                <a href="https://www.linkedin.com/in/prakashvardhan/" target="_blank" rel="" className="flex items-center gap-2">
                   <Linkedin size={20} />
                   LinkedIn
                 </a>
