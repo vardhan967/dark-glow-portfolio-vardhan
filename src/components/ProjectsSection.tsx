@@ -62,6 +62,10 @@ const ProjectsSection = () => {
                       <Github className="w-4 h-4 mr-2" />
                       <a  href="https://github.com/vardhan967/" target='_blank' >View Code</a>
                     </Button>
+                    <Button variant="outline" className="border-primary/30 hover:border-primary hover:bg-primary/10">
+                      <Github className="w-4 h-4 mr-2" />
+                      <a  href="https://github.com/vardhan967/" target='_blank' >View Code</a>
+                    </Button>
                   </div>
                 </div>
 
